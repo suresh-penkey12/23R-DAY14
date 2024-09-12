@@ -10,6 +10,7 @@
     justify-content: space-around;
     flex-wrap: wrap;
     padding:20px;
+    background-color: rgb(19, 18, 18);
 
 }
 .a{
@@ -17,6 +18,7 @@
     width:200px;
     height:60vh;
     padding:20px;
+    border-radius: 5PX;
 }
 .a1{
     border: 2px solid;
@@ -42,9 +44,21 @@
 .a22{
     background-color: blueviolet;
 }
-.a{
+body{
+    background-color:black;
+}
+.d{
     background-color: white;
 }
-
+.c{
+    background-color: aliceblue;
+}
+.z{
+    text-align: center;
+    color:yellow;
+}
+.x{
+    color:white;
+}
 
     
