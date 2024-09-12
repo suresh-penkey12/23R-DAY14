@@ -1,0 +1,50 @@
+.main-container{
+    border: 2px solid;
+    /* height:70vh; */
+    width:60%;
+    margin-left: 300px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding:20px;
+
+}
+.a{
+    border: 2px solid;
+    width:200px;
+    height:60vh;
+    padding:20px;
+}
+.a1{
+    border: 2px solid;
+    height:200px;
+    border-radius: 50%;
+    background-image: url(./coding.jpeg);
+}
+.a2{
+    border: 2px solid;
+    height:200px;
+    border-radius: 50%;
+    background-image: url(./cooking.jpeg);
+}
+.a3{
+    border: 2px solid;
+    height:200px;
+    border-radius: 50%;
+    background-image: url(./cycling.jpeg);
+}
+.b{
+    margin-left:25px;
+}
+.a22{
+    background-color: blueviolet;
+}
+.a{
+    background-color: white;
+}
+
+
+    
